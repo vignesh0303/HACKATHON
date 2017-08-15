@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idbtn" type="id">btn</item>
+    <item name="toolbar" type="id">fbb</item>
+    <item name="user" type="id">fbbbb</item>
+    <item name="verifier" type="id">fbbbbbb</item>
+</resources>
